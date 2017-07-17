@@ -1,5 +1,5 @@
 # hello-world
 
 Ciao!!!
-questo è la ia prima volta qui
+questo è la mia prima volta qui
 :)
